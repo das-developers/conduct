@@ -1,2 +1,2 @@
 # Code-of-Conduct
-This is our official code of conduct.
+We're all humans here.  Strive to be polite, inclusive, and accomodating.
